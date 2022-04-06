@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="details">DETAILS</string>
+    <string name="temperature">Temperature</string>
+    <string name="feelsLike">Feels Like</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+
+    <string name="tbilisi">Tbilisi</string>
+    <string name="london">London</string>
+    <string name="kingston">Kingston</string>
+    <string name="error">Something went wrong!</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
